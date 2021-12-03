@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @nkelly14
+- 👀 I’m interested in web design, UX, and technical writing.
+- 🌱 I’m currently learning technical writing & website creation fundamentals.
+- 💞️ I’m looking to collaborate on technical documentation.
+- 📫 How to reach me - DM me!
+
+<!---
+nkelly14/nkelly14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
