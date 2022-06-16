@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nkelly14
-- 👀 I’m interested in web design, UX, and technical writing.
-- 🌱 I’m currently learning technical writing & website creation fundamentals.
-- 💞️ I’m looking to collaborate on technical documentation.
+- 👀 I’m interested in web design as well as User Experiencve Design & Research
+- 🌱 I’m currently learning website creation fundamentals.
+- 💞️ I'm looking to collaborate on building website landing pages.
 - 📫 How to reach me - DM me!
 
 <!---
